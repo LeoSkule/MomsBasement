@@ -1086,6 +1086,5 @@ class DiabetesApp(MDApp):
 		hour,minute,second = self.time.split(":")
 
 
-
 if __name__ == '__main__':
     DiabetesApp().run()
